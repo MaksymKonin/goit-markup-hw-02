@@ -124,7 +124,8 @@ body {
 
 /* -------------ACTIVITY------------- */
 
-.activity-title, .team-title {
+.activity-title,
+.team-title {
   font-size: 36px;
   line-height: 1.17;
   text-align: center;
